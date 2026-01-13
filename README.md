@@ -1,50 +1,50 @@
-<h3>Raksha Verma</h3>
-
-<p style="font-size:13px; color:gray;">
-Web Developer • MCA Student • PHP & Laravel Enthusiast
-</p>
+<h3>Hi, I'm Raksha Verma 👋</h3>
 
 <p style="font-size:13px;">
-I build clean, responsive web interfaces and scalable web applications.  
-Currently working as a Web Developer while pursuing my MCA to strengthen both practical and academic expertise.
+Web Developer building responsive and user-friendly web applications.  
+Currently working as a Web Developer while pursuing MCA from AKTU.
 </p>
 
 ---
 
+<h4>💼 What I Do</h4>
 <p style="font-size:13px;">
-<strong>Currently:</strong><br>
-• Web Developer at Ezeonsoft Technology, Lucknow<br>
-• MCA (Pursuing) – Dr. A.P.J. Abdul Kalam Technical University
+• Web application development <br>
+• Frontend & backend integration <br>
+• Clean UI with scalable code
 </p>
 
 ---
 
+<h4>🎓 Background</h4>
 <p style="font-size:13px;">
-<strong>Experience & Training:</strong><br>
-• PHP Summer Training (2024)<br>
+• Working as a Web Developer at Ezeonsoft Technology, Lucknow <br>
+• MCA (Pursuing) – Dr. A.P.J. Abdul Kalam Technical University <br>
+• PHP Summer Training (2024) <br>
 • 6-month Internship – Digital Nawab, Lucknow
 </p>
 
 ---
 
+<h4>🛠 Tech Stack</h4>
 <p style="font-size:13px;">
-<strong>Tech I Work With:</strong><br>
-PHP, Laravel, HTML, CSS, JavaScript, MySQL, Git, GitHub
+PHP • Laravel • HTML • CSS • JavaScript • MySQL • Git • GitHub
 </p>
 
 ---
 
+<h4>🌱 Currently Learning</h4>
 <p style="font-size:13px;">
-<strong>Learning Focus:</strong><br>
-Advanced Laravel • UI clarity • Performance optimization
+Advanced Laravel • Clean Architecture • Better UI/UX
 </p>
 
 ---
 
+<h4>📫 Connect</h4>
 <p style="font-size:13px;">
-<strong>Open to:</strong><br>
-Web projects • Internships • Learning collaborations
+LinkedIn • Email • Portfolio (add links)
 </p>
+
 
 
 
