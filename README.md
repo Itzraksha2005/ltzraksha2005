@@ -42,8 +42,11 @@ Advanced Laravel • Clean Architecture • Better UI/UX
 
 <h4>📫 Connect</h4>
 <p style="font-size:13px;">
-LinkedIn • Email • Portfolio (add links)
+<a href="mailto:rakshavermasayar@gmail.com">📧 Email</a> • 
+<a href="https://www.linkedin.com/in/raksha-verma-b36453279/" target="_blank">💼 LinkedIn</a> • 
+<a href="https://your-portfolio-link.com" target="_blank">🌐 Portfolio</a>
 </p>
+
 
 
 
