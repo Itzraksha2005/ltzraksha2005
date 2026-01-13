@@ -1,5 +1,20 @@
-# 💫 About Me:
-## 👋 About Me<br><br>I am a Web Developer with experience in building responsive and user-friendly web applications.  <br>Along with my professional work, I am pursuing an MCA to enhance my technical knowledge and problem-solving skills.<br><br>- 💼 Currently working as a **Web Developer**<br>- 🏢 Working at **Ezeonsoft Technology, Lucknow**<br>- 🎓 Pursuing **Master of Computer Applications (MCA)** from **Dr. A.P.J. Abdul Kalam Technical University (AKTU)**<br>- 🎓 Completed **Summer Training in PHP (2024)**<br>- 💼 Completed **6-month internship at Digital Nawab, Lucknow**<br>- 🛠️ Skilled in **PHP, Laravel, HTML, CSS, JavaScript, MySQL**<br>- 🌱 Continuously improving skills in **full-stack web development**<br><br><br>
+## About Me
+
+<p style="font-size:14px;">
+I am a Web Developer with experience in building responsive and user-friendly web applications.
+Along with my professional work, I am pursuing an MCA to enhance my technical knowledge and problem-solving skills.
+</p>
+
+<p style="font-size:14px;">
+• Currently working as a Web Developer <br>
+• Working at Ezeonsoft Technology, Lucknow <br>
+• Pursuing MCA from Dr. A.P.J. Abdul Kalam Technical University (AKTU) <br>
+• Completed Summer Training in PHP (2024) <br>
+• Completed 6-month internship at Digital Nawab, Lucknow <br>
+• Skilled in PHP, Laravel, HTML, CSS, JavaScript, MySQL <br>
+• Continuously improving skills in full-stack web development
+</p>
+
 
 
 ## 🌐 Socials:
